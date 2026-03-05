@@ -1,8 +1,9 @@
-flask
-gunicorn
-pandas
+tensorflow
 numpy
-seaborn
+pandas
+matplotlib
 scikit-learn
-dill
-xgboost
+opencv-python
+pillow
+seaborn
+streamlit
